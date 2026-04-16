@@ -1,12 +1,18 @@
-## Hi there 👋
+## Welcome to the Visual Computing Lab at HK PolyU 👋
 
-<!--
+The **Visual Computing Lab** at **The Hong Kong Polytechnic University**, led by [**Prof. Lei Zhang**](https://www4.comp.polyu.edu.hk/~cslzhang/), works on **computer vision**, **image and video restoration**, **controllable generation**, **3D scene synthesis**, **multimodal understanding**, **MLLMs**, **benchmarks and datasets**, and **efficient training and inference**.
 
-**Here are some ideas to get you started:**
+Here we share our **projects, code, models, benchmarks, datasets, and demos**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🔥 Research Areas
+
+- 🖼️ Image and video restoration  
+- 🎨 Controllable generation  
+- 🌍 3D scene synthesis  
+- 🤖 Multimodal understanding  
+- 📊 Benchmarks and datasets  
+- ⚡ Efficient architectures and training  
+
+If you are interested in our work, welcome to **follow** the organization and **star** our repositories ⭐
+
+**Follow us:** [𝕏 X](https://x.com/HKPU_VC_Lab) • [🤗 Hugging Face](https://huggingface.co/VCLab-PolyU) • [📕 Xiaohongshu](https://xhslink.com/m/7EbXvH5mcAX)
