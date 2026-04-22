@@ -29,6 +29,8 @@ Real-world image and video restoration, enhancement, super-resolution, and perce
 
 ### 2025
 - **VisualQuality-R1** *(NeurIPS 2025)* — [Paper](https://arxiv.org/abs/2505.14460) | [Code](https://github.com/TianheWu/VisualQuality-R1)
+- **DP²O-SR** *(NeurIPS 2025)* — [Paper](https://arxiv.org/pdf/2510.18851) | [Code](https://github.com/cswry/DP2O-SR)
+- **DLoRAL** *(NeurIPS 2025)* — [Paper](https://arxiv.org/pdf/2506.15591) | [Code](https://github.com/yjsunnn/DLoRAL)
 - **TVT** *(ICCV 2025)* — [Paper](https://arxiv.org/abs/2507.20291) | [Code](https://github.com/Joyies/TVT)
 - **A-FINE** *(CVPR 2025)* — [Paper](https://arxiv.org/abs/2503.11221) | [Code](https://tianhewu.github.io/A-FINE-page.github.io/)
 - **PiSA-SR** *(CVPR 2025)* — [Paper](https://arxiv.org/abs/2412.03017) | [Code](https://github.com/csslc/PiSA-SR)
