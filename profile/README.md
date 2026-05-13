@@ -103,6 +103,7 @@ Efficient, controllable, and high-quality generative models for image synthesis,
 - **DP-DMD** *(preprint)* — [Paper](https://arxiv.org/abs/2602.03139) | [Code](https://github.com/Multimedia-Analytics-Laboratory/dpdmd)
 - **CoCoEdit** *(preprint)* — [Paper](https://arxiv.org/abs/2602.14068) | [Code](https://github.com/langmanbusi/CoCoEdit)
 - **Hybrid Forcing** *(preprint)* — Paper / Code coming soon
+- **Many-for-Many** *(ICLR 2026)* - [Paper](https://arxiv.org/abs/2506.01758) | [Code](https://github.com/leeruibin/MfM)
 
 ### 2025
 - **DNAEdit** *(NeurIPS 2025)* — [Paper](https://arxiv.org/abs/2506.01430) | [Code](https://xiechenxi99.github.io/DNAEdit/)
@@ -136,7 +137,8 @@ Efficient, controllable, and high-quality generative models for image synthesis,
 New model architectures and efficient training paradigms for vision models, diffusion transformers, LLMs, and VLMs.
 
 ### 2026
-**SPES** *(preprint)* — [Paper](https://arxiv.org/abs/2602.11543) | [Code](https://github.com/zjr2000/SPES)
+- **SPES** *(preprint)* — [Paper](https://arxiv.org/abs/2602.11543) | [Code](https://github.com/zjr2000/SPES)
+- **Self-transcendence** *(preprint)* - [Paper](https://arxiv.org/abs/2601.07773) | [Code](https://github.com/csslc/Self-Transcendence)
 - **BinaryAttention** *(CVPR 2026)* — [Paper](https://arxiv.org/abs/2603.09582) | [Code](https://github.com/EdwardChasel/BinaryAttention)
 
 ### 2025
