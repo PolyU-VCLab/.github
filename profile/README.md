@@ -20,14 +20,12 @@ Here we share our **projects, code, models, benchmarks, datasets, and demos**.
 
 Real-world image and video restoration, enhancement, super-resolution, and perceptual quality assessment.
 
-### preprint
-- **NSARM** *(preprint)* — [Paper](https://arxiv.org/abs/2510.00820) | [Code](https://github.com/Xiangtaokong/NSARM)
-
 ### 2026
 - **VOSR** *(CVPR 2026)* — [Paper](https://arxiv.org/pdf/2604.03225) | [Code](https://github.com/cswry/VOSR)
 - **GDPO-SR** *(CVPR 2026)* — [Paper](https://arxiv.org/pdf/2603.16769) | [Code](https://github.com/Joyies/GDPO)
 
 ### 2025
+- **NSARM** *(preprint)* — [Paper](https://arxiv.org/abs/2510.00820) | [Code](https://github.com/Xiangtaokong/NSARM)
 - **VisualQuality-R1** *(NeurIPS 2025)* — [Paper](https://arxiv.org/abs/2505.14460) | [Code](https://github.com/TianheWu/VisualQuality-R1)
 - **DP²O-SR** *(NeurIPS 2025)* — [Paper](https://arxiv.org/pdf/2510.18851) | [Code](https://github.com/cswry/DP2O-SR)
 - **DLoRAL** *(NeurIPS 2025)* — [Paper](https://arxiv.org/pdf/2506.15591) | [Code](https://github.com/yjsunnn/DLoRAL)
@@ -101,7 +99,7 @@ MLLM-based visual perception, grounding, OOD detection, dense understanding, and
 
 Efficient, controllable, and high-quality generative models for image synthesis, editing, and video generation.
 
-### preprint
+### 2026
 - **DP-DMD** *(preprint)* — [Paper](https://arxiv.org/abs/2602.03139) | [Code](https://github.com/Multimedia-Analytics-Laboratory/dpdmd)
 - **CoCoEdit** *(preprint)* — [Paper](https://arxiv.org/abs/2602.14068) | [Code](https://github.com/langmanbusi/CoCoEdit)
 - **Hybrid Forcing** *(preprint)* — Paper / Code coming soon
@@ -137,10 +135,8 @@ Efficient, controllable, and high-quality generative models for image synthesis,
 
 New model architectures and efficient training paradigms for vision models, diffusion transformers, LLMs, and VLMs.
 
-### preprint
-- **SPES** *(preprint)* — [Paper](https://arxiv.org/abs/2602.11543) | [Code](https://github.com/zjr2000/SPES)
-
 ### 2026
+**SPES** *(preprint)* — [Paper](https://arxiv.org/abs/2602.11543) | [Code](https://github.com/zjr2000/SPES)
 - **BinaryAttention** *(CVPR 2026)* — [Paper](https://arxiv.org/abs/2603.09582) | [Code](https://github.com/EdwardChasel/BinaryAttention)
 
 ### 2025
@@ -173,11 +169,9 @@ New model architectures and efficient training paradigms for vision models, diff
 
 Benchmarks and datasets for rigorous evaluation and reproducible progress in visual computing.
 
-### preprint
+### 2026
 - **TIIF-Bench** *(preprint)* — [Paper](https://www.arxiv.org/abs/2506.02161) | [Code](https://a113n-w3i.github.io/TIIF_Bench/)
 - **VideoVerse** *(preprint)* — [Paper](https://arxiv.org/abs/2510.08398) | [Code](https://www.naptmn.cn/Homepage_of_VideoVerse/)
-
-### 2026
 - **MICo-150K** *(CVPR 2026)* — [Paper](https://arxiv.org/abs/2512.07348) | [Code](https://github.com/A113N-W3I/MICo-150K)
 
 ### 2023
