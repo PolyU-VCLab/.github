@@ -23,6 +23,7 @@ Real-world image and video restoration, enhancement, super-resolution, and perce
 ### 2026
 - **VOSR** *(CVPR 2026)* — [Paper](https://arxiv.org/pdf/2604.03225) | [Code](https://github.com/cswry/VOSR)
 - **GDPO-SR** *(CVPR 2026)* — [Paper](https://arxiv.org/pdf/2603.16769) | [Code](https://github.com/Joyies/GDPO)
+- **It Takes Two** *(CVPR 2026)* -[Paper](https://arxiv.org/abs/2603.22794) | [Code](https://github.com/qulishen/Flickerformer)
 
 ### 2025
 - **NSARM** *(preprint)* — [Paper](https://arxiv.org/abs/2510.00820) | [Code](https://github.com/Xiangtaokong/NSARM)
