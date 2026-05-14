@@ -27,6 +27,7 @@ Real-world image and video restoration, enhancement, super-resolution, and perce
 
 ### 2025
 - **NSARM** *(preprint)* — [Paper](https://arxiv.org/abs/2510.00820) | [Code](https://github.com/Xiangtaokong/NSARM)
+- **CCSR**: *(TIP 2025)* - [Paper](https://arxiv.org/abs/2401.00877) | [Code](https://github.com/csslc/CCSR)
 - **VisualQuality-R1** *(NeurIPS 2025)* — [Paper](https://arxiv.org/abs/2505.14460) | [Code](https://github.com/TianheWu/VisualQuality-R1)
 - **DP²O-SR** *(NeurIPS 2025)* — [Paper](https://arxiv.org/pdf/2510.18851) | [Code](https://github.com/cswry/DP2O-SR)
 - **DLoRAL** *(NeurIPS 2025)* — [Paper](https://arxiv.org/pdf/2506.15591) | [Code](https://github.com/yjsunnn/DLoRAL)
