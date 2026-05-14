@@ -131,6 +131,12 @@ Efficient, controllable, and high-quality generative models for image synthesis,
 - **One2Scene** *(ICLR 2026)* — [Paper](https://arxiv.org/pdf/2602.19766) | [Code](https://one2scene5406.github.io/)
 - **ViP3DE** *(AAAI 2026)* — [Paper](https://www.arxiv.org/pdf/2511.23172) | [Code](https://mt-cly.github.io/ViP3DE/)
 
+### 2025
+- **TriplaneTurbo** *(CVPR 2025)* — [Paper](https://arxiv.org/pdf/2503.21694) | [Code](https://github.com/theEricMa/TriplaneTurbo) | [HF Paper](https://huggingface.co/papers/2503.21694)
+
+### 2024
+- **ScaleDreamer** *(ECCV 2024)* — [Paper](https://arxiv.org/pdf/2407.02040) | [Code](https://github.com/theEricMa/ScaleDreamer) | [HF Paper](https://huggingface.co/papers/2407.02040)
+
 </details>
 
 <details>
