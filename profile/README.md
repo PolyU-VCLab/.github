@@ -28,9 +28,11 @@ Real-world image and video restoration, enhancement, super-resolution, and perce
 ### 2025
 - **NSARM** *(preprint)* — [Paper](https://arxiv.org/abs/2510.00820) | [Code](https://github.com/Xiangtaokong/NSARM)
 - **CCSR**: *(TIP 2025)* - [Paper](https://arxiv.org/abs/2401.00877) | [Code](https://github.com/csslc/CCSR)
+- **InstructRestore** *(NeurIPS 2025)* — [Paper](https://arxiv.org/pdf/2503.24357) | [Code](https://github.com/shuaizhengliu/InstructRestore) | [HF Paper](https://huggingface.co/papers/2503.24357)
 - **VisualQuality-R1** *(NeurIPS 2025)* — [Paper](https://arxiv.org/abs/2505.14460) | [Code](https://github.com/TianheWu/VisualQuality-R1)
 - **DP²O-SR** *(NeurIPS 2025)* — [Paper](https://arxiv.org/pdf/2510.18851) | [Code](https://github.com/cswry/DP2O-SR)
 - **DLoRAL** *(NeurIPS 2025)* — [Paper](https://arxiv.org/pdf/2506.15591) | [Code](https://github.com/yjsunnn/DLoRAL)
+- **PURE** *(ICCV 2025)* — [Paper](https://arxiv.org/pdf/2503.11073) | [Code](https://github.com/nonwhy/PURE) | [HF Paper](https://huggingface.co/papers/2503.11073)
 - **TVT** *(ICCV 2025)* — [Paper](https://arxiv.org/abs/2507.20291) | [Code](https://github.com/Joyies/TVT)
 - **GSASR** *(ICCV 2025)* — [Paper](https://arxiv.org/pdf/2501.06838) | [Code](https://github.com/ChrisDud0257/GSASR) | [HF Paper](https://huggingface.co/papers/2501.06838)
 - **A-FINE** *(CVPR 2025)* — [Paper](https://arxiv.org/abs/2503.11221) | [Code](https://tianhewu.github.io/A-FINE-page.github.io/)
@@ -38,12 +40,14 @@ Real-world image and video restoration, enhancement, super-resolution, and perce
 
 ### 2024
 - **OSEDiff** *(NeurIPS 2024)* — [Paper](https://arxiv.org/pdf/2406.08177v2) | [Code](https://github.com/cswry/OSEDiff)
+- **EA-Adam** *(TIP 2024)* — [Paper](https://arxiv.org/pdf/2312.15408) | [Code](https://github.com/csslc/EA-Adam) | [HF Paper](https://huggingface.co/papers/2312.15408)
 - **SSL** *(ACM MM 2024)* — [Paper](https://arxiv.org/pdf/2408.05713) | [Code](https://github.com/ChrisDud0257/SSL) | [HF Paper](https://huggingface.co/papers/2408.05713)
 - **PASD** *(ECCV 2024)* — [Paper](https://arxiv.org/abs/2308.14469v3) | [Code](https://github.com/yangxy/PASD)
 - **MGLD** *(ECCV 2024)* — [Paper](https://arxiv.org/abs/2312.00853) | [Code](https://github.com/IanYeung/MGLD-VSR)
 - **SeeSR** *(CVPR 2024)* — [Paper](https://arxiv.org/pdf/2311.16518.pdf) | [Code](https://github.com/cswry/SeeSR)
 
 ### 2023
+- **Joint-HDRDN** *(CVPR 2023)* — [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Joint_HDR_Denoising_and_Fusion_A_Real-World_Mobile_HDR_Image_CVPR_2023_paper.pdf) | [Code](https://github.com/shuaizhengliu/Joint-HDRDN)
 - **HGGT** *(CVPR 2023)* — [Paper](https://arxiv.org/pdf/2303.13069) | [Code](https://github.com/ChrisDud0257/HGGT)
 - **TPGSR** *(TIP 2023)* — [Paper](https://arxiv.org/abs/2106.15368) | [Code](https://github.com/mjq11302010044/TPGSR)
 
