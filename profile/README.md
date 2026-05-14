@@ -23,7 +23,8 @@ Real-world image and video restoration, enhancement, super-resolution, and perce
 ### 2026
 - **VOSR** *(CVPR 2026)* — [Paper](https://arxiv.org/pdf/2604.03225) | [Code](https://github.com/cswry/VOSR)
 - **GDPO-SR** *(CVPR 2026)* — [Paper](https://arxiv.org/pdf/2603.16769) | [Code](https://github.com/Joyies/GDPO)
-- **It Takes Two** *(CVPR 2026)* -[Paper](https://arxiv.org/abs/2603.22794) | [Code](https://github.com/qulishen/Flickerformer)
+- **Flickerformer** *(CVPR 2026)* -[Paper](https://arxiv.org/abs/2603.22794) | [Code](https://github.com/qulishen/Flickerformer)
+- **RASS** *(IJCV 2026)* — [Paper](https://arxiv.org/abs/2602.14042) | [Code](https://github.com/Ka1Guan/RASS)
 
 ### 2025
 - **NSARM** *(preprint)* — [Paper](https://arxiv.org/abs/2510.00820) | [Code](https://github.com/Xiangtaokong/NSARM)
@@ -53,18 +54,21 @@ Real-world image and video restoration, enhancement, super-resolution, and perce
 
 ### 2022
 - **ELAN** *(ECCV 2022)* — [Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/ECCV_2022_ELAN.pdf) | [Code](https://github.com/xindongzhang/ELAN)
+- **DASR** *(ECCV 2022)* — [Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/ECCV2022_DASR.pdf) | [Code](https://github.com/csjliang/DASR)
+- **UDKE** *(ECCV 2022)* — [Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/ECCV2022_UDKE.pdf) | [Code](https://github.com/natezhenghy/UDKE)
 - **LDL** *(CVPR 2022)* — [Paper](https://arxiv.org/abs/2203.09195) | [Code](https://github.com/csjliang/LDL)
 - **TATT** *(CVPR 2022)* — [Paper](https://arxiv.org/abs/2203.09388) | [Code](https://github.com/mjq11302010044/TATT)
 - **Image-Adaptive-3DLUT** *(TPAMI 2022)* — [Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/PAMI_LUT.pdf) | [Code](https://github.com/HuiZeng/Image-Adaptive-3DLUT)
 
 ### 2021
 - **ECBSR** *(ACM MM 2021)* — [Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/MM21_ECBSR.pdf) | [Code](https://github.com/xindongzhang/ECBSR)
-- **GPEN** *(CVPR 2021)* — [Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/GPEN-cvpr21-final.pdf) | [Code](https://github.com/yangxy/GPEN)
-- **DPIR** *(TPAMI 2021)* — [Paper](https://arxiv.org/pdf/2008.13751.pdf) | [Code](https://github.com/cszn/DPIR)
+- **DCDicL** *(CVPR 2021)* — [Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/DCDicL-cvpr21-final.pdf) | [Code](https://github.com/natezhenghy/DCDicL_denoising)
+- **LPTN** *(CVPR 2021)* — [Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/LPTN-cvpr21-paper.pdf) | [Code](https://github.com/csjliang/LPTN)
 
 ### 2020
-- **DANet** *(ECCV 2020)* — [Paper](https://arxiv.org/pdf/2007.05946.pdf) | [Code](https://github.com/zsyOAOA/DANet)
-- **DFDNet** *(ECCV 2020)* — [Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/conf/ECCV20/DFT.pdf) | [Code](https://github.com/csxmli2016/DFDNet)
+- **DML** *(ACCV 2020)* — [Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/ACCV20-DML.pdf) | [Code](https://github.com/msxiaojin/Degradation-Model-Learning-for-Real-World-SISR)
+- **BDNet** *(ECCV 2020)* — [Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/conf/ECCV20/BDNet.pdf) | [Code](https://github.com/ilegendforever/BDNet)
+- **MDLCC** *(CVPR 2020)* — [Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/MDLCC.pdf) | [Code](https://github.com/msxiaojin/MDLCC)
 
 ### 2019
 - **VDNet** *(NeurIPS 2019)* — [Paper](http://papers.nips.cc/paper/8446-variational-denoising-network-toward-blind-noise-modeling-and-removal.pdf) | [Code](https://github.com/zsyOAOA/VDNet)
@@ -118,6 +122,11 @@ Efficient, controllable, and high-quality generative models for image synthesis,
 - **DNAEdit** *(NeurIPS 2025)* — [Paper](https://arxiv.org/abs/2506.01430) | [Code](https://xiechenxi99.github.io/DNAEdit/)
 - **GPSToken** *(NeurIPS 2025)* — [Paper](https://arxiv.org/abs/2509.01109) | [Code](https://github.com/xtudbxk/GPSToken)
 - **InsViE-1M** *(ICCV 2025)* — [Paper](https://arxiv.org/abs/2503.20287) | [Code](https://github.com/langmanbusi/InsViE)
+- **RORem** *(CVPR 2025)* — [Paper](https://arxiv.org/abs/2501.00740) | [Code](https://github.com/leeruibin/RORem)
+- **FreCaS** *(ICLR 2025)* — [Paper](https://arxiv.org/abs/2410.18410) | [Code](https://github.com/xtudbxk/FreCaS)
+
+### 2024
+- **SPDInv** *(ECCV 2024)* — [Paper](http://arxiv.org/abs/2403.11105) | [Code](https://github.com/leeruibin/SPDInv)
 
 ### 2023
 - **ELITE** *(ICCV 2023)* — [Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/ELITE_ICCV23.pdf) | [Code](https://github.com/csyxwei/ELITE)
@@ -137,12 +146,23 @@ Efficient, controllable, and high-quality generative models for image synthesis,
 - **Photo3D** *(CVPR 2026)* — [Paper](https://arxiv.org/abs/2512.08535) | [Code](https://github.com/Liangsanzhu/Photo3D/)
 - **One2Scene** *(ICLR 2026)* — [Paper](https://arxiv.org/pdf/2602.19766) | [Code](https://one2scene5406.github.io/)
 - **ViP3DE** *(AAAI 2026)* — [Paper](https://www.arxiv.org/pdf/2511.23172) | [Code](https://mt-cly.github.io/ViP3DE/)
+- **BEVDilation** *(AAAI 2026)* — [Paper](https://arxiv.org/abs/2512.02972) | [Code](https://github.com/gwenzhang/BEVDilation)
+- **AlignCVC** *(AAAI 2026)* — [Paper](https://arxiv.org/abs/2506.23150) | [Code](https://liangsanzhu.github.io/aligncvc.github.io/)
 
 ### 2025
 - **TriplaneTurbo** *(CVPR 2025)* — [Paper](https://arxiv.org/pdf/2503.21694) | [Code](https://github.com/theEricMa/TriplaneTurbo) | [HF Paper](https://huggingface.co/papers/2503.21694)
+- **SyncNoise** *(AAAI 2025)* — [Paper](https://arxiv.org/abs/2406.17396) | [Code](https://github.com/lslrh/SyncNoise)
 
 ### 2024
 - **ScaleDreamer** *(ECCV 2024)* — [Paper](https://arxiv.org/pdf/2407.02040) | [Code](https://github.com/theEricMa/ScaleDreamer) | [HF Paper](https://huggingface.co/papers/2407.02040)
+- **DMA** *(ECCV 2024)* — [Paper](https://arxiv.org/abs/2407.09781) | [Code](https://github.com/lslrh/DMA)
+- **GGSD** *(ECCV 2024)* — [Paper](https://arxiv.org/pdf/2407.13362) | [Code](https://github.com/Wang-pengfei/GGSD)
+- **GGA** *(ECCV 2024)* — [Paper](https://arxiv.org/abs/2407.13748) | [Code](https://github.com/gwenzhang/GGA)
+- **ScatterFormer** *(ECCV 2024)* — [Paper](https://arxiv.org/pdf/2401.00912.pdf) | [Code](https://github.com/skyhehe123/ScatterFormer)
+
+### 2023
+- **MSF** *(CVPR 2023)* — [Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/CVPR23-MSF.pdf) | [Code](https://github.com/skyhehe123/MSF)
+- **OTAvatar** *(CVPR 2023)* — [Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/CVPR_2023_OTAvatar.pdf) | [Code](https://github.com/theEricMa/OTAvatar)
 
 </details>
 
