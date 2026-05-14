@@ -32,16 +32,19 @@ Real-world image and video restoration, enhancement, super-resolution, and perce
 - **DP²O-SR** *(NeurIPS 2025)* — [Paper](https://arxiv.org/pdf/2510.18851) | [Code](https://github.com/cswry/DP2O-SR)
 - **DLoRAL** *(NeurIPS 2025)* — [Paper](https://arxiv.org/pdf/2506.15591) | [Code](https://github.com/yjsunnn/DLoRAL)
 - **TVT** *(ICCV 2025)* — [Paper](https://arxiv.org/abs/2507.20291) | [Code](https://github.com/Joyies/TVT)
+- **GSASR** *(ICCV 2025)* — [Paper](https://arxiv.org/pdf/2501.06838) | [Code](https://github.com/ChrisDud0257/GSASR) | [HF Paper](https://huggingface.co/papers/2501.06838)
 - **A-FINE** *(CVPR 2025)* — [Paper](https://arxiv.org/abs/2503.11221) | [Code](https://tianhewu.github.io/A-FINE-page.github.io/)
 - **PiSA-SR** *(CVPR 2025)* — [Paper](https://arxiv.org/abs/2412.03017) | [Code](https://github.com/csslc/PiSA-SR)
 
 ### 2024
 - **OSEDiff** *(NeurIPS 2024)* — [Paper](https://arxiv.org/pdf/2406.08177v2) | [Code](https://github.com/cswry/OSEDiff)
+- **SSL** *(ACM MM 2024)* — [Paper](https://arxiv.org/pdf/2408.05713) | [Code](https://github.com/ChrisDud0257/SSL) | [HF Paper](https://huggingface.co/papers/2408.05713)
 - **PASD** *(ECCV 2024)* — [Paper](https://arxiv.org/abs/2308.14469v3) | [Code](https://github.com/yangxy/PASD)
 - **MGLD** *(ECCV 2024)* — [Paper](https://arxiv.org/abs/2312.00853) | [Code](https://github.com/IanYeung/MGLD-VSR)
 - **SeeSR** *(CVPR 2024)* — [Paper](https://arxiv.org/pdf/2311.16518.pdf) | [Code](https://github.com/cswry/SeeSR)
 
 ### 2023
+- **HGGT** *(CVPR 2023)* — [Paper](https://arxiv.org/pdf/2303.13069) | [Code](https://github.com/ChrisDud0257/HGGT)
 - **TPGSR** *(TIP 2023)* — [Paper](https://arxiv.org/abs/2106.15368) | [Code](https://github.com/mjq11302010044/TPGSR)
 
 ### 2022
