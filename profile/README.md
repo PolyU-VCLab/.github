@@ -114,6 +114,7 @@ MLLM-based visual perception, grounding, OOD detection, dense understanding, and
 Efficient, controllable, and high-quality generative models for image synthesis, editing, and video generation.
 
 ### 2026
+- **Memorize When Needed** *(arXiv 2026)* — [Paper](https://arxiv.org/pdf/2604.18215) | [Code](https://github.com/iGuoYanjun/Memorize-When-Needed) | [HF Model](https://huggingface.co/Guoyanjun/MemorizeWhenNeed) | [HF Paper](https://huggingface.co/papers/2604.18215)
 - **DP-DMD** *(ICML 2026)* — [Paper](https://arxiv.org/abs/2602.03139) | [Code](https://github.com/Multimedia-Analytics-Laboratory/dpdmd)
 - **CoCoEdit** *(ICML 2026)* — [Paper](https://arxiv.org/abs/2602.14068) | [Code](https://github.com/langmanbusi/CoCoEdit)
 - **Hybrid Forcing** *(preprint)* — Paper / Code coming soon
